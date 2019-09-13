@@ -1,0 +1,46 @@
+#container
+{
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+}
+h2
+{
+    text-align: center;
+}
+footer
+{
+    text-align: center;
+}
+#middle
+{
+    text-align: center;
+    font-size: small;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+#left
+{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 70px;
+
+}
+#right
+{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 70px;
+
+}
+td
+{
+    border: black solid 1px;
+}
+button
+{
+    width: 50px;
+    text-align: center;
+}
